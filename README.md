@@ -27,5 +27,5 @@ Create a folder "project", open GitBash and cd "project"
 
 ##### Frontend
     cd frontend
-    pip install axios, react-router-dom, tailwindcss@3.4.17, postcss, autoprefixer
+    pip install axios react-router-dom tailwindcss@3.4.17 postcss autoprefixer
 	npm start
